@@ -1,11 +1,11 @@
 <h1 align="center">👋 Salut, moi c’est Luc Moyika</h1>
-<h3 align="center">💻 Développeur Web passionné | PHP • JavaScript • Laravel • GitHub</h3>
+<h3 align="center">💻 Développeur Web passionné | PHP • JavaScript • Html • CSS • Bootstrap • Tailwind CSS • Laravel • GitHub</h3>
 
 ---
 
 ### 👨‍💻 À propos de moi
 - 🎓 Membre du Github Students Developer Pack & passionné par le **développement web full stack**  
-- 🚀 En apprentissage continu sur **Laravel**, **JavaScript**, et **Git/GitHub**  
+- 🚀 En apprentissage continu sur **Laravel**, **Tailwind CSS**, **JavaScript**, et **Git/GitHub**  
 - 💡 J’aime créer des projets modernes, performants et bien structurés  
 - 📫 Me contacter : **lucmoyika@gmail.com** *(ou via mes réseaux ci-dessous)*  
 
@@ -13,7 +13,7 @@
 
 ### 🛠️ Langages & Outils
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,Tailwind CSS,js,php,laravel,git,github,vscode,figma" />
 </p>
 
 ---
